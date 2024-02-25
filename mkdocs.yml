@@ -29,7 +29,7 @@
 # +--------------------------------------------------------------------------------------------------------+
 site_name: Gospel of Sri Ramakrishna
 site_url: https://github.com/SciVedanta/gospel_ramakrishna/
-site_description: 'SciVedanta.github.io'
+site_description: 'SciVedanta.github.io/gospel_ramakrishna'
 site_author: 'Kamal Choudhary'
 #use_directory_urls: false
 #site_url: 'https://www.andre601.ch/mkdocs-template' # Uncomment to set a canonical URL
@@ -76,8 +76,8 @@ docs_dir: docs/
 # | - https://www.mkdocs.org/user-guide/configuration/#edit_uri                                            |
 # |                                                                                                        |
 # +--------------------------------------------------------------------------------------------------------+
-repo_name: SciVedanta.github.io
-repo_url: https://github.com/SciVedanta/SciVedanta.github.io
+repo_name: SciVedanta.github.io/gospel_ramakrishna
+repo_url: https://scivedanta.github.io/gospel_ramakrishna/
 #edit_uri: tree/master/docs # Uncomment to define a different URI/URL for the "edit" option
 
 # +--------------------------------------------------------------------------------------------------------+
