@@ -12,7 +12,8 @@ Translated from the Bengali by Swami Nikhilananda
 
 **Ramakrishna Math and Ramakrishna Mission**
 
-[**[http://www.belurmath.org/gospel/index.htm]{.underline}**](http://www.belurmath.org/gospel/index.htm)
+[**[http://www.belurmath.org/gospel/index.htm]{.underline}**]
+(http://www.belurmath.org/gospel/index.htm)
 
 **FOREWORD**
 
